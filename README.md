@@ -36,7 +36,7 @@ repo sync
 Then add these projects to .repo/manifest.xml:
 
 ```xml
-<project path="device/xiaomi/tucana" name="chemusqui1/android_device_xiaomi_tucana" remote="github" revision="shrp-2.x" />
+<project path="device/xiaomi/tucana" name="chemusqui1/android_device_xiaomi_tucana" remote="github" revision="main" />
 ```
 
 Finally execute these:
