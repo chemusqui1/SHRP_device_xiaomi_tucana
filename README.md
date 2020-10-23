@@ -21,7 +21,7 @@ Works:
 
 TO DO:
 
-- Password and PIN decryption on Android R (Pattern decrypts succesfully)
+- Password and PIN decryption on Android R stock ROM (Pattern decrypts succesfully)
 
 
 ## Compile
